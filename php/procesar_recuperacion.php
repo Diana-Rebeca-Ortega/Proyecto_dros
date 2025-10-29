@@ -1,6 +1,6 @@
 <?php
   // Conectar a la base de datos
-  $conn = new mysqli("localhost", "root", "1819diana", "usuarios");
+ $conn = new mysqli("fdb1032.awardspace.net", "4676372_usuarios", "1819dianaxD24*", "4676372_usuarios");
 
   // Verificar conexión
   if ($conn->connect_error) {
